@@ -1,0 +1,237 @@
+[11-Jul-2022 14:03:07 Europe/Berlin] fatal error\n Uncaught Exception"Exception"</p> Uncaught Exception"not found articel"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\Core\Routers.php"</p> Uncaught Exception"76"</p>
+[11-Jul-2022 14:03:07 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 5)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/404')
+#4 [internal function]: Core\Error::errorException(Object(Exception))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:04:45 Europe/Berlin] fatal error\n Uncaught Exception"Exception"</p> Uncaught Exception"not found articel"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\Core\Routers.php"</p> Uncaught Exception"76"</p>
+[11-Jul-2022 14:04:45 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/404')
+#4 [internal function]: Core\Error::errorException(Object(Exception))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:06:23 Europe/Berlin] fatal error\n Uncaught Exception"Exception"</p> Uncaught Exception"not found articel"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\Core\Routers.php"</p> Uncaught Exception"76"</p>
+[11-Jul-2022 14:06:23 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/404')
+#4 [internal function]: Core\Error::errorException(Object(Exception))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:06:28 Europe/Berlin] fatal error\n Uncaught Exception"Exception"</p> Uncaught Exception"not found articels"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\Core\Routers.php"</p> Uncaught Exception"76"</p>
+[11-Jul-2022 14:06:28 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/404')
+#4 [internal function]: Core\Error::errorException(Object(Exception))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:06:44 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:06:44 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:12:11 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:12:11 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:12:25 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:12:25 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:15:39 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:15:39 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:15:39 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:15:39 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:15:39 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:15:39 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:15:40 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:15:40 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:24:30 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:24:30 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:24:30 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:24:30 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:24:31 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:24:31 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(22): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:26:38 Europe/Berlin] fatal error\n Uncaught Exception"Error"</p> Uncaught Exception"Call to undefined function App\Contorol\ShowTemplate()"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\App\Contorol\View.php"</p> Uncaught Exception"20"</p>
+[11-Jul-2022 14:26:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function App\Contorol\ShowTemplate() in C:\xampp2\htdocs\mvc\App\Contorol\View.php:20
+Stack trace:
+#0 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#1 [internal function]: Core\Error::errorException(Object(Error))
+#2 {main}
+  thrown in C:\xampp2\htdocs\mvc\App\Contorol\View.php on line 20
+[11-Jul-2022 14:27:40 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:27:40 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:33:04 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:33:04 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:36:01 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:36:01 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:36:01 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:36:01 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:36:13 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:36:13 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:36:13 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:36:13 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:36:13 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:36:13 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:40:19 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:40:19 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
+[11-Jul-2022 14:40:22 Europe/Berlin] fatal error\n Uncaught Exception"ErrorException"</p> Uncaught Exception"mkdir(): Invalid path"</p> Uncaught Exception"C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php"</p> Uncaught Exception"276"</p>
+[11-Jul-2022 14:40:22 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: mkdir(): Invalid path in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php:276
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Invali...', 'C:\\xampp2\\htdoc...', 276)
+#1 C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php(276): mkdir('', 511, true)
+#2 C:\xampp2\htdocs\mvc\App\Contorol\View.php(23): eftec\bladeone\BladeOne->__construct(false, false, 0)
+#3 C:\xampp2\htdocs\mvc\Core\Error.php(39): App\Contorol\View::renderTemplate('Error/500')
+#4 [internal function]: Core\Error::errorException(Object(ErrorException))
+#5 {main}
+  thrown in C:\xampp2\htdocs\mvc\vendor\eftec\bladeone\lib\BladeOne.php on line 276
